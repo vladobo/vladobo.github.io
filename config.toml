@@ -1,0 +1,5 @@
+baseURL = "https://vladobo.githhub.io/"
+languageCode = "en-us"
+title = "Vlad Ob on github"
+theme = "simplicity"
+themesDir = "themes"

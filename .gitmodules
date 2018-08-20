@@ -1,0 +1,7 @@
+[submodule "themes/themes/hugo-simpledoc-theme"]
+	path = themes/themes/hugo-simpledoc-theme
+	url = https://github.com/aerohub/hugo-simpledoc-theme
+[submodule "public"]
+	path = public
+	url = git@github.com:vladobo/vladobo.github.io.git
+	branch = master
