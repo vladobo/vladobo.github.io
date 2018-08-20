@@ -24,12 +24,6 @@
   
     
       <url>
-        <loc>https://vladobo.githhub.io/posts/my-first-post-with-image/</loc>
-      </url>
-    
-  
-    
-      <url>
         <loc>https://vladobo.githhub.io/categories/</loc>
         <priority>0</priority>
       </url>
@@ -40,6 +34,13 @@
         <loc>https://vladobo.githhub.io/tags/elements/</loc>
         <lastmod>2017-11-09T10:15:01+02:00</lastmod>
         <priority>0</priority>
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://vladobo.githhub.io/</loc>
+        <lastmod>2018-08-20T20:07:41+12:00</lastmod>
       </url>
     
   
@@ -60,13 +61,12 @@
     
   
     
-  
-    
       <url>
         <loc>https://vladobo.githhub.io/posts/</loc>
         <lastmod>2018-08-20T20:07:41+12:00</lastmod>
-        <priority>0</priority>
       </url>
+    
+  
     
   
     
@@ -81,14 +81,6 @@
       <url>
         <loc>https://vladobo.githhub.io/tags/typography/</loc>
         <lastmod>2017-11-09T10:15:01+02:00</lastmod>
-        <priority>0</priority>
-      </url>
-    
-  
-    
-      <url>
-        <loc>https://vladobo.githhub.io/</loc>
-        <lastmod>2018-08-20T20:07:41+12:00</lastmod>
         <priority>0</priority>
       </url>
     

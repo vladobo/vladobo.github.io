@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Vlad Ob on github</title>
+    <title>Homepage on Vlad Ob on github</title>
     <link>https://vladobo.githhub.io/</link>
-    <description>Recent content on Vlad Ob on github</description>
+    <description>Recent content in Homepage on Vlad Ob on github</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 20 Aug 2018 20:07:41 +1200</lastBuildDate>
@@ -43,14 +43,6 @@ Example code:
         <pubDate>Thu, 09 Nov 2017 10:15:01 +0200</pubDate>
         <guid>https://vladobo.githhub.io/posts/2017/typography/</guid>
         <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit :wink:. Nullam nibh lorem, porta ut urna ut, scelerisque consequat magna. Pellentesque vel massa sed tortor cursus tempus at eget ligula. Duis leo odio, luctus eget suscipit vel, pharetra id velit. Mauris arcu enim, mollis placerat porta in, sagittis a nisl. Nam et augue eu justo porta tincidunt. In luctus nisl dolor, sed aliquet augue elementum eget. Vivamus laoreet, mauris vitae aliquam faucibus, tellus dolor feugiat felis, ac facilisis diam eros eget est.</description>
-      </item>
-    
-      <item>
-        <title></title>
-        <link>https://vladobo.githhub.io/posts/my-first-post-with-image/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        <guid>https://vladobo.githhub.io/posts/my-first-post-with-image/</guid>
-        <description></description>
       </item>
     
   </channel>
