@@ -24,7 +24,7 @@ Example code:
   You can insert image with caption.
 Example code:
 {{&amp;lt; image src=&amp;quot;media/image-1.jpg&amp;quot; title=&amp;quot;Photo by Ales Krivec on Unsplash&amp;quot; &amp;gt;}}  Result:
- Photo by Ales Krivec on Unsplash  You can add lightbox=&amp;quot;true&amp;quot; parameter to use lightbox plugin.</description>
+ Photo by Ales  Krivec on Unsplash  You can add lightbox=&amp;quot;true&amp;quot; parameter to use lightbox plugin.</description>
       </item>
     
       <item>
